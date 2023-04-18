@@ -1,0 +1,2 @@
+# turtle_race
+This is a simple turtle racing game where the user can place a bet on which colored turtle they think will win. The program creates six turtles of different colors and randomly moves them forward in the race. Once one of the turtles crosses the finish line, the program stops and declares the winner. If the user correctly guessed the winning turtle, they win the bet. Otherwise, they lose. The game uses the Turtle and Screen modules to create the graphics and to accept user input.
